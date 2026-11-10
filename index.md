@@ -1,4 +1,3 @@
-
 # DSC 180A Methodology Assignment 4
  
 **Name:** Po-Hua Chen  
